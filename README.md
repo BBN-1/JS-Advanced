@@ -1,4 +1,4 @@
-In order to run the **Single Page Applications** in JS Applications please follow the next steps:
+In order to run the **Single Page Applications** in **JS Applications folder** please follow the next steps:
 
 1.   Open terminal and execute :  npm install . This will install all dependencies needed for the application to run properly
 2.   While in the server folder run : node server.js. 

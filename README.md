@@ -6,3 +6,9 @@ In order to run the **Single Page Applications** in JS Applications follow pleas
 http://localhost:3000
 
 Testing of the SPA can be done via command "npm run test"
+
+      
+
+![This is an image](/JS-Applications.jpg)
+
+![This is an image](/JS%20Advanced%20Certificate.jpg)
